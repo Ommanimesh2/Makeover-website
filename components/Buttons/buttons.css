@@ -1,0 +1,18 @@
+.btn{
+    border-radius: 9%;
+    text-align: center;
+    width: 100px;
+    margin: 0 20px;
+
+
+  
+}
+.bucket{
+    margin: 0 20px;
+}
+.navBtns{
+    padding: 0 25px;
+}
+.SignupBtn{
+    margin: 0 10px;
+}

@@ -1,0 +1,11 @@
+.navbar{
+    border: 0;
+   font-size: large;
+    padding:4vh 5vw;
+}
+.navDiv{
+
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    margin-top: 20px;
+}
